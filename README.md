@@ -15,7 +15,7 @@
     <img height = "20" src = "https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge" />
     <img height = "20" src = "https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
     <img height = "20" src = "https://img.shields.io/badge/Csharp-%2300ADD8.svg?style=for-the-badge&logocolor=white" />
-    <img height = "20" src = "https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge" />
+    <img height = "20" src = "https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logoColor=orange" />
     <img height = "20" src = "https://img.shields.io/badge/Javascript-%236C5B9E.svg?style=for-the-badge" />
 </p>
 
