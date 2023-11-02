@@ -1,5 +1,5 @@
 
-<h1 align = "center"> UNEXPECTED </h1>
+<h1 align = "center"> HIDE-SX </h1>
 
 <p align = "center">
     <i> " 路漫漫其修远兮 吾将上下而求索 " </i>
@@ -10,15 +10,13 @@
 </p>
 
 <p align = "center" >
-    <img height = "30" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
-    <img height = "30" src = "https://img.shields.io/badge/NVIM-%23383838.svg?&style=for-the-badge&logo=SublimeText&logoColor=%23ffffff" />
     <img height = "30" src = "https://img.shields.io/badge/Pentest-%23383838.svg?&style=for-the-badge&logo=ReasonStudios&logoColor=%23C53B82" />
     <br />
     <img height = "20" src = "https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge" />
     <img height = "20" src = "https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
-    <img height = "20" src = "https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logocolor=white" />
+    <img height = "20" src = "https://img.shields.io/badge/Csharp-%2300ADD8.svg?style=for-the-badge&logocolor=white" />
     <img height = "20" src = "https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge" />
-    <img height = "20" src = "https://img.shields.io/badge/PHP-%236C5B9E.svg?style=for-the-badge" />
+    <img height = "20" src = "https://img.shields.io/badge/Javascript-%236C5B9E.svg?style=for-the-badge" />
 </p>
 
 <!-- <i>「 一川煙雨 滿城風絮 」</i> -->
