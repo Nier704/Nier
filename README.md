@@ -1,5 +1,5 @@
 
-<h1 align = "center"> HIDE-SX </h1>
+<h1 align = "center"> Nier </h1>
 
 <p align = "center">
     <i> " 路漫漫其修远兮 吾将上下而求索 " </i>
